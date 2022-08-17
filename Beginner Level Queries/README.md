@@ -2,4 +2,7 @@
   
 ![2022-08-17 (3)](https://user-images.githubusercontent.com/111266884/185143437-712c1a54-416f-4341-8955-0aeefacd2f89.png)
 
-2. How many customers do we have in the Customers table? Show one value only, and don’t rely on getting the recordcount at the end of a resultset.
+#### 2. How many customers do we have in the Customers table? Show one value only, and don’t rely on getting the recordcount at the end of a resultset.
+
+![2022-08-17 (4)](https://user-images.githubusercontent.com/111266884/185144604-bf99a65f-f76e-43c8-99f7-d032593feab0.png)
+
