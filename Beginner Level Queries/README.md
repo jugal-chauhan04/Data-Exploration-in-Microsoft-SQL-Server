@@ -6,3 +6,6 @@
 
 ![2022-08-17 (4)](https://user-images.githubusercontent.com/111266884/185144604-bf99a65f-f76e-43c8-99f7-d032593feab0.png)
 
+#### 3. Show a list of countries where the Northwind company has customers
+
+![2022-08-18](https://user-images.githubusercontent.com/111266884/185409000-2bab8468-db0f-4bf2-82c4-7dbb220b3740.png)
