@@ -9,3 +9,5 @@
 #### 3. Show a list of countries where the Northwind company has customers
 
 ![2022-08-18](https://user-images.githubusercontent.com/111266884/185409000-2bab8468-db0f-4bf2-82c4-7dbb220b3740.png)
+
+#### 4. Show the date of the first order ever made in the Orders table
