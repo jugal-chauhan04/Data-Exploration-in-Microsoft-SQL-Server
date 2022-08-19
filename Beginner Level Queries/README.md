@@ -10,4 +10,7 @@
 
 ![2022-08-18](https://user-images.githubusercontent.com/111266884/185409000-2bab8468-db0f-4bf2-82c4-7dbb220b3740.png)
 
-#### 4. Show the date of the first order ever made in the Orders table
+#### 4. Show the date of the first order ever made in the Orders table.
+
+![2022-08-19 (1)](https://user-images.githubusercontent.com/111266884/185678784-9b239a83-447b-405d-a9ee-fb55db4dc6ed.png)
+
