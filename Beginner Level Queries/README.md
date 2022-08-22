@@ -15,3 +15,6 @@
 ![2022-08-19 (1)](https://user-images.githubusercontent.com/111266884/185678784-9b239a83-447b-405d-a9ee-fb55db4dc6ed.png)
 
 #### 5. We’d like to show, for each product, the associated Supplier. Show the ProductID, ProductName, and the CompanyName of the Supplier. Sort by ProductID.
+
+![2022-08-22](https://user-images.githubusercontent.com/111266884/185840002-53cb5e9d-eb40-480b-9d5d-be4bb40cdd0a.png)
+
