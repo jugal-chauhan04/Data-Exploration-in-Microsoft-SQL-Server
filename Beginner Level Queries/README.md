@@ -18,3 +18,5 @@
 
 ![2022-08-22](https://user-images.githubusercontent.com/111266884/185840002-53cb5e9d-eb40-480b-9d5d-be4bb40cdd0a.png)
 
+#### 6. Show a list of all the different values in the Customers table for ContactTitles. Also include a count for each ContactTitle.
+
