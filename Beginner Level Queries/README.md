@@ -28,3 +28,5 @@
 
 #### 8. We’d like to show a list of the Orders that were made, including the Shipper that was used. Show the OrderID, OrderDate (date only), and CompanyName of the Shipper, and sort by OrderID. In order to not show all the orders (there’s more than800), show only those rows with an OrderID of lessthan 10300
 
+![2022-08-24 (1)](https://user-images.githubusercontent.com/111266884/186467580-184c4844-ba6d-47c3-b984-c042be0164a9.png)
+
