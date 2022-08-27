@@ -8,3 +8,4 @@
 
 #### 3. What products do we have in our inventory that should be reordered? For now, just use the fields UnitsInStock and ReorderLevel, where UnitsInStock is less than the ReorderLevel, ignoring the fields UnitsOnOrder and Discontinued. Order the results by ProductID
 
+![2022-08-27](https://user-images.githubusercontent.com/111266884/187039463-70e5ac54-61a8-4aeb-86c7-d81e5c01a573.png)
