@@ -11,3 +11,6 @@
 ![2022-08-27](https://user-images.githubusercontent.com/111266884/187039463-70e5ac54-61a8-4aeb-86c7-d81e5c01a573.png)
 
 #### 4. Now we need to incorporate these fields—UnitsInStock, UnitsOnOrder, ReorderLevel, Discontinued—into our calculation. We’ll define “products that need reordering” with the following: UnitsInStock plus UnitsOnOrder are less than or equal to ReorderLevel. The Discontinued flag is false (0)
+
+![2022-08-29](https://user-images.githubusercontent.com/111266884/187206316-fbd03179-c2d0-473d-824f-730782ef104a.png)
+
