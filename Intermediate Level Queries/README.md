@@ -18,7 +18,10 @@
 
 ![2022-08-29 (1)](https://user-images.githubusercontent.com/111266884/187207401-7d96496f-12a1-4157-8f95-8ffa3dcfbcf3.png)
 
-#### 6. Some of the countries we ship to have very high freight charges. We'd like to investigate some more shipping options for our customers, to be able to offer them lower freight charges. Return the three ship countries with the highest average freight overall, in descending order by average freight
+#### 6. Some of the countries we ship to have very high freight charges. We'd like to investigate some more shipping options for our customers, to be able to offer them lower freight charges. Return the three ship countries with the highest average freight overall, in descending order by average freight.
+
+![2022-08-30](https://user-images.githubusercontent.com/111266884/187367819-b8041295-fef7-4f17-a645-12c9f9d29bc8.png)
+
 
 
 
