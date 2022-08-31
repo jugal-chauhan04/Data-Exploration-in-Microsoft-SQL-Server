@@ -22,7 +22,10 @@
 
 ![2022-08-30](https://user-images.githubusercontent.com/111266884/187367819-b8041295-fef7-4f17-a645-12c9f9d29bc8.png)
 
-#### 7. We're continuing on the question above on high freight charges. Now, instead of using all the orders we have, we only want to see orders from the year 1997
+#### 7. We're continuing on the question above on high freight charges. Now, instead of using all the orders we have, we only want to see orders from the year 1997.
+
+![2022-08-31](https://user-images.githubusercontent.com/111266884/187629467-e7adb151-30ad-4a8d-ad66-237ae01d83b8.png)
+
 
 
 
