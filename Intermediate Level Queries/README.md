@@ -26,6 +26,8 @@
 
 ![2022-08-31](https://user-images.githubusercontent.com/111266884/187629467-e7adb151-30ad-4a8d-ad66-237ae01d83b8.png)
 
+#### 8. We're continuing to work on high freight charges. We now want to get the three ship countries with the highest average freight charges. But instead of filtering for a particular year, we want to use the last 12 months of order data, using as the end date the last OrderDate in Orders
+
 
 
 
