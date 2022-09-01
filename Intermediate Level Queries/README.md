@@ -30,6 +30,17 @@
 
 ![2022-08-31 (1)](https://user-images.githubusercontent.com/111266884/187632577-5c04764f-c69e-4c5e-ac8c-9efde3b5ee62.png)
 
+#### 9. We're doing inventory, and need to show information like the below, for all orders. Sort by OrderID and Product ID:
+EmployeeID, LastName, OrderID, ProductName, Quantity.
+
+
+
+
+#### 10. There are some customers who have never actually placed an order. Show these customers.
+
+
+
+
 
 
 
