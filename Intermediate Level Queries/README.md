@@ -33,6 +33,9 @@
 #### 9. We're doing inventory, and need to show information like the below, for all orders. Sort by OrderID and Product ID:
 EmployeeID, LastName, OrderID, ProductName, Quantity.
 
+![2022-09-01 (1)](https://user-images.githubusercontent.com/111266884/187912850-86c7129a-b0b0-49d2-b361-ffd31de8d309.png)
+
+
 
 
 
