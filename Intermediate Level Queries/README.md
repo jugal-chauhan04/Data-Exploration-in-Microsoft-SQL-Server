@@ -35,11 +35,11 @@ EmployeeID, LastName, OrderID, ProductName, Quantity.
 
 ![2022-09-01 (1)](https://user-images.githubusercontent.com/111266884/187912850-86c7129a-b0b0-49d2-b361-ffd31de8d309.png)
 
-
-
-
-
 #### 10. There are some customers who have never actually placed an order. Show these customers.
+
+
+![2022-09-01](https://user-images.githubusercontent.com/111266884/187913165-d3767e4e-3507-4616-9409-7fcc1f65b2a9.png)
+
 
 
 
