@@ -37,8 +37,9 @@ EmployeeID, LastName, OrderID, ProductName, Quantity.
 
 #### 10. There are some customers who have never actually placed an order. Show these customers.
 
-
 ![2022-09-01](https://user-images.githubusercontent.com/111266884/187913165-d3767e4e-3507-4616-9409-7fcc1f65b2a9.png)
+
+11. One employee (Margaret Peacock, EmployeeID 4) has placed the most orders. However, there are some customers who've never placed an order with her. Show only those customers who have never placed an order with her
 
 
 
