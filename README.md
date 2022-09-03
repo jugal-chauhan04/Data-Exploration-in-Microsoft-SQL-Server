@@ -1,5 +1,5 @@
 # Information About Repository
-This repository contains a collection of SQL exercises ranging from beginner to advanced level queries in Microsoft SQL Server Environment.
+This repository contains data exploration of Northwind database divided as beginner, intermediate, and advanced level queries in Microsoft SQL Server Environment.
 
 # Source
 The problems mentioned in this repository are taken from the book:
