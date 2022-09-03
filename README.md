@@ -1,5 +1,5 @@
 # Information About Repository
-This repository contains data exploration of Northwind database divided as beginner, intermediate, and advanced level queries in Microsoft SQL Server Environment.
+This Data Exploration project is implemented on the Northwind Database focuses on Query Manipulation and covers SQL topics such as GROUP BY, Aggregate Functions, Subqueries, JOIN operation, and Common Table Expressions.
 
 # Source
 The problems mentioned in this repository are taken from the book:
