@@ -39,7 +39,10 @@ EmployeeID, LastName, OrderID, ProductName, Quantity.
 
 ![2022-09-01](https://user-images.githubusercontent.com/111266884/187913165-d3767e4e-3507-4616-9409-7fcc1f65b2a9.png)
 
-11. One employee (Margaret Peacock, EmployeeID 4) has placed the most orders. However, there are some customers who've never placed an order with her. Show only those customers who have never placed an order with her
+11. One employee (Margaret Peacock, EmployeeID 4) has placed the most orders. However, there are some customers who've never placed an order with her. Show only those customers who have never placed an order with her.
+
+![2022-09-03](https://user-images.githubusercontent.com/111266884/188263152-68b12848-b5b5-40d8-84c8-dc2cc9dd52a2.png)
+
 
 
 
