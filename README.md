@@ -5,6 +5,8 @@ This Data Exploration project is implemented on the Northwind Database focuses o
 All the queries are performed on the Northwind Database and SQL editor used for performing these queries is Microsoft SQL Server Management Studio.
 
 ## Database Table Structure
+![northwind-er-diagram](https://user-images.githubusercontent.com/111266884/188295350-50b79edc-db6e-4105-9b46-701d3b5f8d6c.png)
+
 
 
 
