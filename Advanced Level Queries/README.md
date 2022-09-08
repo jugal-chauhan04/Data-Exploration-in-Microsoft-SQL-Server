@@ -2,5 +2,9 @@
 
 ![2022-09-04](https://user-images.githubusercontent.com/111266884/188295173-f9ddbb37-27ca-47b0-9eb6-ea7b854176ad.png)
 
+#### 2. The manager has changed his mind. Instead of requiring that customers have at least one individual orders totaling $10,000 or more, he wants to define high-value customers as those who have orders totaling $15,000 or more in 1997.
+
+
+
 
 
