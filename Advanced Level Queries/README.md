@@ -8,6 +8,8 @@
 
 #### 3. Change the above query to use the discount when calculating high-value customers. Order by the total amount which includes the discount
 
+![2022-09-09](https://user-images.githubusercontent.com/111266884/189392140-0fd7f9c0-d5df-446b-91df-a2c2dcbae10d.png)
+
 
 
 
