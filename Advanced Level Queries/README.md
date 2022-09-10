@@ -14,6 +14,8 @@
 
 ![2022-09-09 (1)](https://user-images.githubusercontent.com/111266884/189392992-415e2fe2-90da-4488-b740-ba1f933f4c7b.png)
 
+#### 5. The Northwind mobile app developers are testing an app that customers will use to show orders. In order to make sure that even the largest orders will show up correctly on the app, they'd like some samples of orders that have lots of individual line items. Show the 10 orders with the most line items, in order of total line items.
+
 
 
 
