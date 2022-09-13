@@ -18,6 +18,8 @@
 
 ![2022-09-10](https://user-images.githubusercontent.com/111266884/189474325-fba2a8a3-4b4a-47cd-8eda-6749a55a7faa.png)
 
+#### 6. Some salespeople have more orders arriving late than others. Maybe they're not following up on the order process, and need more training. Which salespeople have the most orders arriving late?
+
 
 
 
