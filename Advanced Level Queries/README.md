@@ -22,7 +22,7 @@
 
 ![2022-09-13](https://user-images.githubusercontent.com/111266884/189959440-ab89243b-3fb2-4445-9c39-5a5fa3f5b39c.png)
 
-#### 7. Andrew, the VP of sales, has been doing some more thinking about the problem of late orders. He realizes that just looking at the number of orders arriving late for each salesperson isn't a good idea. It needs to be compared against the total number of orders per sales
+#### 7. Andrew, the VP of sales, has been doing some more thinking about the problem of late orders. He realizes that just looking at the number of orders arriving late for each salesperson isn't a good idea. It needs to be compared against the total number of orders per salesperson.
 
 ![2022-09-15](https://user-images.githubusercontent.com/111266884/190333360-7fc530cb-fd01-4eeb-8a3a-e79cf6f74cff.png)
 
