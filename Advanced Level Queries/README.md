@@ -28,6 +28,9 @@
 
 #### 8. Show the percentage of Late Orders over Total Orders.
 
+![2022-09-17](https://user-images.githubusercontent.com/111266884/190854224-d4b4f3a4-cfa5-43d0-8f85-1eb959707762.png)
+
+
 
 
 
