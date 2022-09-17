@@ -1,4 +1,4 @@
---Shwing the percentage of Late Orders over Total Orders.
+--Show the percentage of Late Orders over Total Orders.
 
 WITH AllOrders AS
 (SELECT
