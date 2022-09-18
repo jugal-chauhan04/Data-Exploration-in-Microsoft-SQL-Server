@@ -30,7 +30,10 @@
 
 ![2022-09-17](https://user-images.githubusercontent.com/111266884/190854224-d4b4f3a4-cfa5-43d0-8f85-1eb959707762.png)
 
-#### 9. Andrew Fuller, the VP of sales at Northwind, would like to do a sales campaign for existing customers. He'd like to categorize customers into groups, based on how much they ordered in 2016. Then, depending on which group the customer is in, he will target the customer with different sales materials. The customer grouping categories are 0 to 1,000, 1,000 to 5,000, 5,000 to 10,000, and over 10,000.
+#### 9. Andrew Fuller, the VP of sales at Northwind, would like to do a sales campaign for existing customers. He'd like to categorize customers into groups, based on how much they ordered in 1997. Then, depending on which group the customer is in, he will target the customer with different sales materials. The customer grouping categories are 0 to 1,000, 1,000 to 5,000, 5,000 to 10,000, and over 10,000.
+
+![2022-09-18 (89)](https://user-images.githubusercontent.com/111266884/190898704-a36570d5-df80-4272-8d6e-1bc266d7286b.png)
+
 
 
 
