@@ -34,6 +34,9 @@
 
 ![2022-09-18 (89)](https://user-images.githubusercontent.com/111266884/190898704-a36570d5-df80-4272-8d6e-1bc266d7286b.png)
 
+#### 10. Some Northwind employees are planning a business trip, and would like to visit as many suppliers and customers as possible. For their planning, they’d like to see a list of all countries where suppliers and/or customers are based.
+
+
 
 
 
