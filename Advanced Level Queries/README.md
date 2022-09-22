@@ -38,6 +38,8 @@
 
 ![2022-09-21](https://user-images.githubusercontent.com/111266884/191542613-f945e310-5802-4de2-9135-b39e7abfd0de.png)
 
+#### 11. The output of the above is improved, but it’s still not ideal What we’d really like to see is the country name, the total suppliers, and the total customers
+
 
 
 
